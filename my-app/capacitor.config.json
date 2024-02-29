@@ -1,0 +1,11 @@
+{
+  "appId": "com.capgemini.cameraiostest",
+  "appName": "capa_test_camera",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
